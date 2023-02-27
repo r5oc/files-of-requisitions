@@ -1,6 +1,6 @@
 {
-    "url": None,
-    "headers": None,
+    "url": null,
+    "headers": null,
     "next-page": {
         "start": 1,
         "increment": 1
