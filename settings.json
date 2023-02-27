@@ -1,0 +1,30 @@
+{
+    "url": None,
+    "headers": None,
+    "next-page": {
+        "start": 1,
+        "increment": 1
+    },
+    "card": {
+        "tag": "",
+        "class": ""
+    },
+    "products": {
+        "title": {
+            "tag": "",
+            "class": ""
+        },
+        "price": {
+            "tag": "",
+            "class": ""
+        },
+        "cents": {
+            "tag": "",
+            "class": ""
+        },
+        "shipping": {
+            "tag": "",
+            "class": ""
+        }
+    }
+}
